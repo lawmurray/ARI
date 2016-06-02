@@ -16,7 +16,7 @@ model ARI {
   state X1
   state X2
   state X1_old(has_output = 0)
-  state X1_old(has_output = 0)
+  state X2_old(has_output = 0)
 
   obs V
 

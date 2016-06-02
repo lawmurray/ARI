@@ -1,3 +1,3 @@
 #!/bin/sh
 
-libbi sample @config.conf --target prior --model-file ARI.bi
+libbi sample @config.conf @prior.conf
